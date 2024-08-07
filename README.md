@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Akash Parmar 👋
 
-<!--
-**akash1520/akash1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 I’m currently working at Odoo India.
+- 💬 Ask me about tech and philosophy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash1520&show_icons=true)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash1520&layout=compact)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/akashmparmar/)
+- [Twitter](https://twitter.com/akashhuyaar/)
+- [Website](https://akashparmar.vercel.app)
+
+- [Blog Posts](https://medium.com/@kashakash)
